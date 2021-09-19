@@ -23,12 +23,15 @@
     margin-right: 30px;
 }
 .p:hover{
-    color: rgb(230, 250, 253);
+    color: rgba(255, 220, 19, 0.897);
     font-size: 15px;
 }
 .n{
     cursor: pointer;
 }
 .n:hover{
-    color: rgb(230, 250, 253);
+    color: rgb(255, 216, 19);
+}
+.menu:hover{
+    background-color:rgb(1, 63, 1);
 }
